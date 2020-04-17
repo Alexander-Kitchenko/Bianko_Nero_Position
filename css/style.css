@@ -1,0 +1,137 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+
+.pizza {
+
+	background-image: url("../images/pizza-home_02.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	background-color: #3f0002;
+	border-top: #af2024 solid 40px;
+	padding-top: 21px;
+	position: relative;
+
+}
+
+.social a{
+
+	color: white;
+	text-align: center;
+	font-size: 33px;
+	line-height: 33px;
+	width: 50px;
+	height: 50px;
+	text-decoration: none;
+	padding: 10px;
+
+}
+
+.fa-twitter-square{
+
+background-color:#98161b ;
+	border: solid 1px #98161b;
+	position: fixed;
+	right: 0px;
+	top: 222px;
+}
+
+.fa-facebook-f{
+
+	background-color: #850409;
+	border: solid 1px #850409;
+	position: fixed;
+	right: 0px;
+	top: 272px;
+
+}
+
+
+.fa-twitter-square a:before{
+	content: "f099";
+
+
+}
+
+.fa-facebook-f a:before{
+	content: "f39e";
+
+}
+
+
+.pizza-wrap{
+	width:  960px;
+	margin: auto;
+
+}
+
+.pizza-video_title{
+	background-color: #98161b;
+	height: 70px;
+	font-size: 20px;
+	color: white;
+	padding-top: 27px;
+	padding-left: 14px;
+}
+
+.video-play__wrap{
+    height: 346px;
+
+	position: relative;
+    background-color: #e7e7e7;
+	margin: 63px 69px 30px;
+
+}
+
+.play {
+	background-image: url("../images/play_03.jpg");
+	height: 54px;
+	width: 47px;
+	position: absolute;left: 50%;bottom: 50%;
+	margin-bottom: -27px;
+	margin-left: -23px;
+}
+
+.pizza-video {
+	max-width: 710px;
+	margin: auto;
+	background-color: #ffffff;
+	position: relative;
+	top: 40px;
+	padding-bottom: 125px;
+}
+
+.text{
+	max-width: 568px;
+	margin: auto;
+	color: #9f262a;
+
+}
+
+.text h4{
+	font-size: 13px;
+}
+
+.text p{
+	font-size: 12px;
+	line-height: 18px;
+}
+.text h4:after{
+	content:".........";
+	display: block;
+	margin-bottom: 17px;
+
+}
+
+.text  span{
+	color: #7d7d7d;
+}
+
+.footer_backgr{
+
+background-color: black;
+	height: 454px;
+}
