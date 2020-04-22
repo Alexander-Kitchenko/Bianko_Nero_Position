@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fa3b237-3044-4d3d-a624-9bcec87ee123" name="Default Changelist" comment="" />
+    <list default="true" id="3fa3b237-3044-4d3d-a624-9bcec87ee123" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Logo_03_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Logo_04_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Logo_1_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/images/Logo_1_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/images/home-work-position-(2)_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/images/home-work-position-(2)_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/images/logo5_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/images/logo6-6_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/images/logo_1-2_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_5_03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +34,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aVMSIk9gNFB8equVUPYBg522Qf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +47,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -50,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586816305383</updated>
       <workItem from="1586816306589" duration="16403000" />
-      <workItem from="1587045004496" duration="17620000" />
+      <workItem from="1587045004496" duration="20968000" />
     </task>
     <servers />
   </component>
